@@ -14,6 +14,9 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
+    "qsync": "node ./scripts/obsidian-sync.mjs once",
+    "qsync:watch": "node ./scripts/obsidian-sync.mjs watch",
+    "qserve": "node ./scripts/obsidian-sync.mjs watch --serve",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
