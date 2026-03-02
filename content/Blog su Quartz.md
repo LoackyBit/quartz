@@ -15,10 +15,7 @@ draft: false
 ---
 ## Cosa ho cambiato
 
-  
-
 Oggi ho rifatto quasi tutto il setup del blog, passando da una logica Astro a una pipeline Quartz molto piu automatizzata e orientata a Obsidian.
-
   
 
 Le modifiche principali che ho introdotto sono queste:
