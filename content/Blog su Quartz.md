@@ -84,13 +84,11 @@ Come funziona internamente:
 
 - usa `rsync -a --delete` per avere mirror coerente tra vault e `content/`
 - esclude cartelle/file non utili (`.obsidian`, `.trash`, `.DS_Store`, `.git`)
-
 - usa `chokidar` per intercettare modifiche filesystem con debounce
 - gestisce concorrenza (`isSyncRunning`, `pendingSync`) per evitare race condition
 - in modalita `--push` fa `git add/commit/push` solo su `content/`
 - in modalita `--serve` avvia `npx quartz build --serve`
 
-  
 
 Esempio di uso diretto dello script:
 
