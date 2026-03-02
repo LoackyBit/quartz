@@ -115,7 +115,6 @@ Adesso il flusso e davvero "Obsidian-first":
 - pubblico con pipeline GitHub Actions senza passaggi manuali ripetitivi
 ## Collegamenti
 
-  
 
 - [[Quartz]]
 
