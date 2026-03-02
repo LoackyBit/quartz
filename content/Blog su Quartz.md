@@ -21,9 +21,7 @@ Le modifiche principali che ho introdotto sono queste:
 
 - ho aggiunto un workflow GitHub Actions dedicato al deploy su GitHub Pages (`.github/workflows/deploy.yml`), agganciato al branch `v4`
 - ho integrato il fetch del tema remoto `ayu-light-mirage` in fase di build
-
 - ho iterato piu volte su `quartz.config.ts` fino a stabilizzare `baseUrl` su `"/quartz"`
-
 - ho costruito uno script Node per sincronizzare il vault Obsidian in `content/`
 
 - ho aggiunto script npm per coprire casi d'uso diversi: sync una tantum, watch continuo, serve locale, push automatico
