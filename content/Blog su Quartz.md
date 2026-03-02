@@ -38,9 +38,6 @@ La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al
 5. Ho consolidato lo script `obsidian-sync.mjs` come punto unico di orchestrazione.
 6. Ho attivato la modalita di auto-commit e auto-push dei soli contenuti.
 7. Ho documentato tutto nel README con modalita operative chiare.
-
-  
-
 ## CLI che ho creato
 
   
