@@ -26,10 +26,7 @@ Le modifiche principali che ho introdotto sono queste:
 - ho aggiunto script npm per coprire casi d'uso diversi: sync una tantum, watch continuo, serve locale, push automatico
 - ho riscritto il `README.md` come guida operativa del mio flusso reale
 - ho fatto vari passaggi su `content` (directory, symlink, riallineamenti) per trovare la strategia piu robusta
-
 - ho rimosso file temporanei di test come `content/sda.md`
-
-  
 
 ## Timeline delle decisioni
 
