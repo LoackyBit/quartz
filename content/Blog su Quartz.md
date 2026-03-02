@@ -89,7 +89,6 @@ Come funziona internamente:
 - in modalita `--push` fa `git add/commit/push` solo su `content/`
 - in modalita `--serve` avvia `npx quartz build --serve`
 
-
 Esempio di uso diretto dello script:
 
   
