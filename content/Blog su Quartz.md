@@ -36,9 +36,7 @@ La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al
 3. Ho provato ad aggiungere/rimuovere/reinserire lo step di fetch tema nel workflow CI.
 4. Ho sperimentato sia `content/` locale sia symlink verso il vault per valutare pro e contro.
 5. Ho consolidato lo script `obsidian-sync.mjs` come punto unico di orchestrazione.
-
 6. Ho attivato la modalita di auto-commit e auto-push dei soli contenuti.
-
 7. Ho documentato tutto nel README con modalita operative chiare.
 
   
