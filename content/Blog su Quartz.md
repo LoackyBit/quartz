@@ -16,7 +16,7 @@ draft: false
 
 ## Cosa hai cambiato
 
-Hai rifatto il setup del blog su Quartz in modo strutturale, non solo contenutistico.
+Ho rifatto il setup del blog su Quartz in modo strutturale, non solo contenutistico.
 
 - Deploy automatico con GitHub Actions (deploy.yml) su branch `v4`
 - Tema remoto applicato in build (`ayu-light-mirage`) via step `curl ... | bash`
