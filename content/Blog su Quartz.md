@@ -30,9 +30,6 @@ Le modifiche principali che ho introdotto sono queste:
 ## Timeline delle decisioni
 
 La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al setup attuale.
-
-  
-
 1. Ho introdotto deploy e contenuti iniziali su Quartz.
 
 2. Ho corretto piu volte il `baseUrl` per allinearlo al comportamento di GitHub Pages.
