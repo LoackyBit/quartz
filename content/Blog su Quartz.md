@@ -44,9 +44,8 @@ La parte piu importante del refactor e stata creare una piccola CLI operativa ce
 
 Obiettivi della CLI:
 
-- ridurre attrito tra scrittura in Obsidian e pubblicazione su Quart
+- ridurre attrito tra scrittura in Obsidian e pubblicazione su Quartz
 - avere una sola entrypoint per sync, watch, preview e deploy
-
 - standardizzare i comandi per evitare errori manuali
 
   
