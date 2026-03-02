@@ -110,11 +110,8 @@ Durante la migrazione ho visto alcuni punti critici ricorrenti:
 Adesso il flusso e davvero "Obsidian-first":  
 
 - scrivo nel vault Obsidian
-
 - sincronizzo automaticamente su Quartz
-
 - faccio preview locale quando serve
-
 - pubblico con pipeline GitHub Actions senza passaggi manuali ripetitivi
 
   
