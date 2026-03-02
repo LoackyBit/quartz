@@ -48,11 +48,8 @@ Obiettivi della CLI:
 - avere una sola entrypoint per sync, watch, preview e deploy
 - standardizzare i comandi per evitare errori manuali
 
-  
-
 Interfaccia del CLI `qsync`:
 
-  
 
 ```text
 
