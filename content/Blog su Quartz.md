@@ -51,31 +51,18 @@ Obiettivi della CLI:
 Interfaccia del CLI `qsync`:
 
 ```text
-
 Usage:
-
-qsync [command]
-
-  
+	qsync [command]
 
 Commands:
-
-once Run one sync and exit (default)
-
-watch Watch Obsidian folder and sync on changes
-
-serve Watch and start Quartz local server
-
-deploy Watch, commit, and push synced content
-
-serve-deploy Watch + server + auto commit/push
-
-install-agent Install macOS LaunchAgent supervisor
-
-uninstall-agent Uninstall macOS LaunchAgent supervisor
-
--h, --help Show this help message
-
+	once               Run one sync and exit (default)
+	watch              Watch Obsidian folder and sync on changes
+	serve              Watch and start Quartz local server
+	deploy             Watch, commit, and push synced content
+	serve-deploy       Watch + server + auto commit/push
+	install-agent      Install macOS LaunchAgent supervisor
+	uninstall-agent    Uninstall macOS LaunchAgent supervisor
+	-h, --help         Show this help message
 ```
 
 Per usarlo in locale posso eseguirlo direttamente oppure tramite npm script.
