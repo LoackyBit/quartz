@@ -101,8 +101,6 @@ node ./scripts/obsidian-sync.mjs watch --serve --push
 
 Durante la migrazione ho visto alcuni punti critici ricorrenti:
 
-  
-
 - `baseUrl` errato rompe facilmente asset e routing in Pages
 
 - alternare directory e symlink su `content` crea diff rumorosi e storicita difficile da leggere
