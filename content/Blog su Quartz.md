@@ -79,7 +79,6 @@ uninstall-agent Uninstall macOS LaunchAgent supervisor
 ```
 
 Per usarlo in locale posso eseguirlo direttamente oppure tramite npm script.
-  
 
 Come funziona internamente:
 
