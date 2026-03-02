@@ -40,8 +40,6 @@ La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al
 7. Ho documentato tutto nel README con modalita operative chiare.
 ## CLI che ho creato
 
-  
-
 La parte piu importante del refactor e stata creare una piccola CLI operativa centrata su `scripts/obsidian-sync.mjs`.
 
   
