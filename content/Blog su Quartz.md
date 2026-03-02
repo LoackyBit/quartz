@@ -99,8 +99,6 @@ node ./scripts/obsidian-sync.mjs watch --serve --push
 
 ## Cose imparate
 
-  
-
 Durante la migrazione ho visto alcuni punti critici ricorrenti:
 
   
