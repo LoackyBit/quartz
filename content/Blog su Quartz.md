@@ -50,7 +50,6 @@ Obiettivi della CLI:
 
 Interfaccia del CLI `qsync`:
 
-
 ```text
 
 Usage:
