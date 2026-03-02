@@ -33,7 +33,7 @@ La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al
 
 1. Ho introdotto deploy e contenuti iniziali su Quartz.
 2. Ho corretto piu volte il `baseUrl` per allinearlo al comportamento di GitHub Pages.
-3. Ho provato ad aggiungere/rimuovere/reinserire lo step di fetch tema nel workflow CI.
+3. Ho provato ad aggiungere/rimuovere/reinserire lo step di fetch tema nel workflow CI-
 
 4. Ho sperimentato sia `content/` locale sia symlink verso il vault per valutare pro e contro.
 
