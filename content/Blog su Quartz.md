@@ -104,11 +104,8 @@ Durante la migrazione ho visto alcuni punti critici ricorrenti:
 - `baseUrl` errato rompe facilmente asset e routing in Pages
 
 - alternare directory e symlink su `content` crea diff rumorosi e storicita difficile da leggere
-
 - auto-push senza controllo puo generare molti commit ravvicinati
-
 - senza una versione Node fissata, il comportamento locale non e ripetibile
-
 - ignorare `scripts/` nel `.gitignore` puo diventare un rischio se la repo deve essere replicabile
 
   
