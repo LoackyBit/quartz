@@ -106,9 +106,6 @@ Durante la migrazione ho visto alcuni punti critici ricorrenti:
 - auto-push senza controllo puo generare molti commit ravvicinati
 - senza una versione Node fissata, il comportamento locale non e ripetibile
 - ignorare `scripts/` nel `.gitignore` puo diventare un rischio se la repo deve essere replicabile
-
-  
-
 ## Stato finale
 
   
