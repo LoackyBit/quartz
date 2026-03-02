@@ -19,9 +19,7 @@ Oggi ho rifatto quasi tutto il setup del blog, passando da una logica Astro a un
 
 Le modifiche principali che ho introdotto sono queste:
 
-
 - ho aggiunto un workflow GitHub Actions dedicato al deploy su GitHub Pages (`.github/workflows/deploy.yml`), agganciato al branch `v4`
-
 - ho integrato il fetch del tema remoto `ayu-light-mirage` in fase di build
 
 - ho iterato piu volte su `quartz.config.ts` fino a stabilizzare `baseUrl` su `"/quartz"`
