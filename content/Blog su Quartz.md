@@ -107,8 +107,6 @@ Durante la migrazione ho visto alcuni punti critici ricorrenti:
 - ignorare `scripts/` nel `.gitignore` puo diventare un rischio se la repo deve essere replicabile
 ## Stato finale
 
-  
-
 Adesso il flusso e davvero "Obsidian-first":
 
   
