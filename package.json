@@ -17,6 +17,8 @@
     "qsync": "node ./scripts/obsidian-sync.mjs once",
     "qsync:watch": "node ./scripts/obsidian-sync.mjs watch",
     "qserve": "node ./scripts/obsidian-sync.mjs watch --serve",
+    "qsync:deploy": "node ./scripts/obsidian-sync.mjs watch --push",
+    "qserve:deploy": "node ./scripts/obsidian-sync.mjs watch --serve --push",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

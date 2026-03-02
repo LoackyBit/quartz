@@ -12,6 +12,7 @@ const DEFAULT_TARGET = path.resolve(process.cwd(), 'content')
 const args = process.argv.slice(2)
 const mode = args[0] === 'watch' ? 'watch' : 'once'
 const shouldServe = args.includes('--serve')
+const shouldPush = args.includes('--push')
 
 const source = process.env.OBSIDIAN_BLOG_DIR ?? DEFAULT_SOURCE
 const target = process.env.QUARTZ_CONTENT_DIR ?? DEFAULT_TARGET
@@ -34,6 +35,8 @@ const rsyncArgs = [
 
 let isSyncRunning = false
 let pendingSync = false
+let isGitPushRunning = false
+let pendingGitPush = false
 
 const now = () => new Date().toISOString().replace('T', ' ').replace('Z', '')
 
@@ -43,6 +46,95 @@ const log = (message) => {
 
 const error = (message) => {
   process.stderr.write(`[qsync ${now()}] ERROR: ${message}\n`)
+}
+
+const runCommand = async (command, commandArgs, options = {}) => {
+  return await new Promise((resolve, reject) => {
+    const child = spawn(command, commandArgs, {
+      cwd: process.cwd(),
+      stdio: options.stdio ?? 'inherit',
+      shell: process.platform === 'win32',
+    })
+
+    let stdout = ''
+    let stderr = ''
+
+    if (child.stdout) {
+      child.stdout.on('data', (chunk) => {
+        stdout += String(chunk)
+      })
+    }
+
+    if (child.stderr) {
+      child.stderr.on('data', (chunk) => {
+        stderr += String(chunk)
+      })
+    }
+
+    child.on('error', (err) => {
+      reject(err)
+    })
+
+    child.on('close', (code) => {
+      if (code === 0) {
+        resolve({ stdout, stderr })
+        return
+      }
+
+      reject(new Error(`${command} exited with code ${code}: ${stderr || stdout}`.trim()))
+    })
+  })
+}
+
+const ensureGitRepo = async () => {
+  await runCommand('git', ['rev-parse', '--is-inside-work-tree'], { stdio: 'pipe' })
+}
+
+const getCurrentBranch = async () => {
+  const result = await runCommand('git', ['branch', '--show-current'], { stdio: 'pipe' })
+  return result.stdout.trim()
+}
+
+const hasContentChanges = async () => {
+  const result = await runCommand('git', ['status', '--porcelain', '--', 'content'], { stdio: 'pipe' })
+  return result.stdout.trim().length > 0
+}
+
+const commitAndPushContent = async () => {
+  if (isGitPushRunning) {
+    pendingGitPush = true
+    return
+  }
+
+  isGitPushRunning = true
+  pendingGitPush = false
+
+  try {
+    const changed = await hasContentChanges()
+
+    if (!changed) {
+      log('No content changes to commit')
+      return
+    }
+
+    const branch = await getCurrentBranch()
+    if (!branch) {
+      throw new Error('Unable to detect current git branch')
+    }
+
+    const commitMessage = `chore(content): sync obsidian ${new Date().toISOString()}`
+
+    await runCommand('git', ['add', '-A', '--', 'content'])
+    await runCommand('git', ['commit', '-m', commitMessage, '--', 'content'])
+    await runCommand('git', ['push', 'origin', branch])
+
+    log(`Pushed synced content to origin/${branch}`)
+  } finally {
+    isGitPushRunning = false
+    if (pendingGitPush) {
+      await commitAndPushContent()
+    }
+  }
 }
 
 const runSync = async () => {
@@ -102,6 +194,11 @@ const main = async () => {
   try {
     await runSync()
     log('Initial sync completed')
+
+    if (shouldPush) {
+      await ensureGitRepo()
+      await commitAndPushContent()
+    }
   } catch (err) {
     error(err instanceof Error ? err.message : String(err))
     process.exit(1)
@@ -148,6 +245,10 @@ const main = async () => {
         log('Change detected, syncing...')
         await runSync()
         log('Sync completed')
+
+        if (shouldPush) {
+          await commitAndPushContent()
+        }
       } catch (err) {
         error(err instanceof Error ? err.message : String(err))
       }
