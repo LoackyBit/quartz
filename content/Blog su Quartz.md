@@ -97,8 +97,6 @@ node ./scripts/obsidian-sync.mjs watch --serve --push
 
 ```
 
-  
-
 ## Cose imparate
 
   
