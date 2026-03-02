@@ -6,7 +6,7 @@ on:
       - v4
  
 env:
-  THEME_NAME: 'celestial-night'
+  THEME_NAME: 'ayu-light-mirage'
 
 permissions:
   contents: read
