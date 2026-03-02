@@ -42,11 +42,9 @@ La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al
 
 La parte piu importante del refactor e stata creare una piccola CLI operativa centrata su `scripts/obsidian-sync.mjs`.
 
-  
-
 Obiettivi della CLI:
 
-  
+
 
 - ridurre attrito tra scrittura in Obsidian e pubblicazione su Quartz
 
