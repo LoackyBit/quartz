@@ -91,8 +91,6 @@ Come funziona internamente:
 
 Esempio di uso diretto dello script:
 
-  
-
 ```bash
 
 node ./scripts/obsidian-sync.mjs watch --serve --push
