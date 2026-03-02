@@ -82,10 +82,7 @@ Per usarlo in locale posso eseguirlo direttamente oppure tramite npm script.
 
 Come funziona internamente:
 
-  
-
 - usa `rsync -a --delete` per avere mirror coerente tra vault e `content/`
-
 - esclude cartelle/file non utili (`.obsidian`, `.trash`, `.DS_Store`, `.git`)
 
 - usa `chokidar` per intercettare modifiche filesystem con debounce
