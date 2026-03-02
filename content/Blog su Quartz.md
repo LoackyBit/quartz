@@ -27,7 +27,6 @@ Le modifiche principali che ho introdotto sono queste:
 - ho riscritto il `README.md` come guida operativa del mio flusso reale
 - ho fatto vari passaggi su `content` (directory, symlink, riallineamenti) per trovare la strategia piu robusta
 - ho rimosso file temporanei di test come `content/sda.md`
-
 ## Timeline delle decisioni
 
 La timeline non e stata lineare: ho fatto diversi tentativi prima di arrivare al setup attuale.
