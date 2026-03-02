@@ -15,12 +15,10 @@ draft: false
 ---
 ## Cosa ho cambiato
 
-Oggi ho rifatto quasi tutto il setup del blog, passando da una logica Astro a una pipeline Quartz molto piu automatizzata e orientata a Obsidian.
-  
+Oggi ho rifatto quasi tutto il setup del blog, passando da una logica Astro a una pipeline Quartz molto piu automatizzata e orientata a Obsidian.  
 
 Le modifiche principali che ho introdotto sono queste:
 
-  
 
 - ho aggiunto un workflow GitHub Actions dedicato al deploy su GitHub Pages (`.github/workflows/deploy.yml`), agganciato al branch `v4`
 
