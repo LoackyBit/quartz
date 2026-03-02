@@ -113,9 +113,6 @@ Adesso il flusso e davvero "Obsidian-first":
 - sincronizzo automaticamente su Quartz
 - faccio preview locale quando serve
 - pubblico con pipeline GitHub Actions senza passaggi manuali ripetitivi
-
-  
-
 ## Collegamenti
 
   
