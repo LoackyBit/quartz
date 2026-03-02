@@ -13,38 +13,6 @@ source:
 summary: Migrazione da Astro a Quartz con deploy su GitHub Pages, sync Obsidian automatica e revisione completa di contenuti e configurazione.
 draft: false
 ---
----
-
-title: Migrazione blog da Astro a Quartz
-
-date: 2026-03-02
-
-tags:
-
-- quartz
-
-- migrazione
-
-- obsidian
-
-- github-actions
-
-- digital-garden
-
-stage: learning 🧩
-
-source:
-
-- https://github.com/LoackyBit/quartz
-
-summary: Migrazione da Astro a Quartz con deploy su GitHub Pages, sync Obsidian automatica e revisione completa di contenuti e configurazione.
-
-draft: false
-
----
-
-  
-
 ## Cosa ho cambiato
 
   
