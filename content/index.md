@@ -6,8 +6,8 @@ title: Home
 
   
 
-# Welcome to Quartz
+# Welcome
 
   
 
-This is your home page. You can customize this content by editing `content/index.md`.
+This is the home page
