@@ -1,0 +1,24 @@
+---
+title: Atomismo marxista e la deriva della politica italiana
+date: 2026-03-03
+tags:
+  - marxismo
+  - filosofia-politica
+  - italia
+  - riflessioni
+stage: fine-tuned 🧠
+source: []
+summary: Riflessione sulla divergenza tra bene comune sbandierato in propaganda e l'atomismo individuale dei politici una volta al potere.
+draft: false
+---
+
+Oggi ho riflettuto su come la descrizione dell'**atomismo** fatta da [[Karl Marx]] trovi un'eco sorprendente e amara nella realtà dello Stato italiano contemporaneo. Marx, nelle sue critiche allo Stato moderno, evidenziava come la società civile fosse composta da individui ("atomi") separati, ognuno teso al proprio interesse privato, nonostante la parvenza di unità politica.
+
+Nel contesto italiano, osservo costantemente una scissione tra il momento della propaganda e quello dell'esercizio del potere. Durante le campagne elettorali, il politico parla in nome del "bene dello Stato", della collettività e di visioni programmatiche che dovrebbero trascendere l'individuo.
+
+Tuttavia, una volta varcata la soglia delle istituzioni, questo afflato universalistico sembra evaporare. Il politico si spoglia della sua veste pubblica per rivelarsi un "atomo" della società civile: un individuo svincolato dai legami ideologici o dai punti programmatici del suo stesso partito, mosso principalmente dal proprio tornaconto personale o da logiche di sopravvivenza politica immediata.
+
+## Collegamenti
+
+- [[Karl Marx]]
+- [[Italia]]
