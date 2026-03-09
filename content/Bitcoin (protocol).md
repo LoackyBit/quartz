@@ -1,5 +1,5 @@
 ---
-title: "Costruire Bitcoin da Zero: Un Percorso Logico"
+title: Bitcoin (protocollo)
 date: 2026-03-09
 tags:
   - bitcoin

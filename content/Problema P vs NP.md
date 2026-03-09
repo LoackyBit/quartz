@@ -1,5 +1,5 @@
 ---
-title: Il Problema P vs NP Spiegato Semplice
+title: Problema P vs NP
 date: 2026-03-09
 tags:
   - computer-science
