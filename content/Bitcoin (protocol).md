@@ -133,6 +133,8 @@ Di conseguenza, il Blocco #51 (che conteneva il vecchio hash) si romperebbe. E c
 
 Per frodare la rete, Alice dovrebbe ricalcolare la Proof of Work del Blocco 50, poi del 51, poi del 52... e farlo _più velocemente_ di quanto il resto del mondo stia calcolando i nuovi blocchi. Matematicamente e fisicamente impossibile.
 
+![[But how does bitcoin actually work_ 21-15 screenshot.png]]
+
 ### La Regola Finale
 
 Se la rete si divide temporaneamente (due miner risolvono un blocco contemporaneamente creando un bivio), quale strada si segue?
