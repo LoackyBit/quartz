@@ -1,5 +1,5 @@
 ---
-title: Migrazione blog da Astro a Quartz
+title: Blog su Quartz
 date: 2026-03-02
 tags:
   - quartz
