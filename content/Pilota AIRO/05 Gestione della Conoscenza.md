@@ -1,3 +1,12 @@
+---
+title: 05 Gestione della Conoscenza
+date: 2026-03-05
+tags:
+stage: fine-tuned 🧠
+source:
+summary:
+draft: false
+---
 [[Pilota AIRO]]
 # Pilota AIRO - 05 Gestione della Conoscenza
 

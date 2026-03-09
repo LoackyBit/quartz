@@ -1,3 +1,12 @@
+---
+title: 02 Ambiente e Modelli Visuali
+date: 2026-02-04
+tags:
+stage: fine-tuned 🧠
+source:
+summary:
+draft: false
+---
 [[Pilota AIRO]]
 # Pilota AIRO - 02 Ambiente e Modelli Visuali
 ## 1. Introduzione al Modulo 2: Contesto e Obiettivi

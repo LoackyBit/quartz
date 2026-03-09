@@ -1,3 +1,12 @@
+---
+title: 01 Introduzione e Linguaggio Naturale
+date: 2026-01-23
+tags:
+stage: fine-tuned 🧠
+source:
+summary:
+draft: false
+---
 [[Pilota AIRO]]
 # Pilota AIRO - 01 Introduzione e Linguaggio Naturale
 ## 1. Introduzione al Corso e all'Ecosistema SMARRtino

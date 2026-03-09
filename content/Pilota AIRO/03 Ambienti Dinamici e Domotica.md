@@ -1,3 +1,12 @@
+---
+title: 03 Ambienti Dinamici e Domotica
+date: 2026-02-15
+tags:
+stage: fine-tuned 🧠
+source:
+summary:
+draft: false
+---
 [[Pilota AIRO]]
 # Pilota AIRO - 03 Ambienti Dinamici e Domotica
 ## 1. Introduzione ai Sistemi Robotici Dinamici

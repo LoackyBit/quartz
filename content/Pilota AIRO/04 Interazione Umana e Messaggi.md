@@ -1,3 +1,12 @@
+---
+title: 04 Interazione Umana e Messaggi
+date: 2026-02-24
+tags:
+stage: fine-tuned 🧠
+source:
+summary:
+draft: false
+---
 [[Pilota AIRO]]
 # Pilota AIRO - 04 Interazione Umana e Messaggi: Comunicazione e Collaborazione nel Sistema SMARRtino
 
