@@ -12,7 +12,7 @@ stage: fine-tuned 🧠
 source:
   - https://youtu.be/bBC-nXj3Ng4
 summary: "Costruiamo una criptovaluta da zero: dal libro mastro tra amici, all'introduzione delle firme digitali, fino alla necessità della Proof of Work per il consenso distribuito."
-draft: true
+draft: false
 ---
 Immaginiamo di voler creare la nostra moneta digitale da zero. Come faremmo a farla funzionare senza affidarci a una banca? Ecco quindi una spiegazione del [[Bitcoin (protocol)|protocollo Bitcoin]].
 
@@ -104,7 +104,7 @@ Ma non possiamo semplicemente aggiungere il blocco al registro. Imponiamo una re
 
 Dato che l'Hash è imprevedibile, come facciamo? Aggiungiamo un numero casuale al blocco, chiamato **Nonce**.
 
-> 🖼️ **Placeholder Immagine:**
+![[But how does bitcoin actually work_ 15-8 screenshot.png]]
 
 I _miners_ della rete accendono i loro computer e iniziano a provare numeri (Forza Bruta):
 
@@ -119,13 +119,13 @@ I _miners_ della rete accendono i loro computer e iniziano a provare numeri (For
 
 **Perché far fare tutta questa fatica ai computer?**
 
-Perché richiede tempo (circa 10 minuti). Questa [[Proof of Work]] (Prova di Lavoro) rallenta l'aggiunta di blocchi, dando alla rete il tempo di sincronizzarsi. Se Alice prova a fare una Doppia Spesa, la transazione che finisce nel blocco risolto per primo diventa la verità.
+Perché richiede tempo (circa 10 minuti). Questa [[Proof of Work]] (Prova di Lavoro) rallenta l'aggiunta di blocchi, dando alla rete il tempo di sincronizzarsi. Se Alice prova a fare una Doppia Spesa, la transazione che finisce nel blocco risolto per primo diventa la verità. 
 
 ## 7. La Catena di Blocchi (Blockchain) e la Fiducia
 
 Ogni nuovo blocco deve contenere al suo interno l'Hash del blocco precedente. Questo li incatena indissolubilmente.
 
-> 🖼️ **Placeholder Immagine:**
+![[But how does bitcoin actually work_ 17-0 screenshot.png]]
 
 Se Alice (un'attaccante) volesse tornare indietro nel tempo al Blocco #50 per cancellare un suo pagamento e rimettersi i soldi in tasca, cambierebbe i dati di quel blocco. Ma questo cambierebbe immediatamente l'Hash del Blocco #50!
 
@@ -145,7 +145,7 @@ Ed è così che, partendo da un registro tra amici, abbiamo appena inventato Bit
 
 ## Passaggi Pratici ed Errori Comuni
 
-### 🔴 Errori Comuni da non fare
+### Errori Comuni da non fare
 
 - **"Il Bitcoin crittografa le transazioni"**: Sbagliato! Le transazioni sono in chiaro e pubbliche per tutti. La crittografia (le firme digitali) serve solo a dimostrare l'_autorizzazione_ a spendere, non a nascondere i dati.
     
@@ -154,7 +154,7 @@ Ed è così che, partendo da un registro tra amici, abbiamo appena inventato Bit
 - **Credere che l'identità sia legata al nome**: Sulla blockchain non esiste "Alice" o "Bob", esistono solo le [[Chiave Pubblica|Chiavi Pubbliche]]. Bitcoin è _pseudonimo_, non anonimo.
     
 
-### 🟢 Passaggi Pratici per approfondire
+### Passaggi Pratici per approfondire
 
 - **Comprendere da dove nascono i BTC**: Chi è che riceve il primo premio in denaro? Il protocollo definisce che il miner che trova la soluzione della Proof of Work ha il diritto di inserire una transazione speciale in cima al blocco (chiamata _Coinbase_) che crea nuovi Bitcoin dal nulla e li invia a se stesso. È così che l'offerta di moneta viene immessa nel sistema.
     
@@ -164,14 +164,12 @@ Ed è così che, partendo da un registro tra amici, abbiamo appena inventato Bit
 ## Collegamenti
 
 - [[Crittografia Asimmetrica]]
-    
 - [[Doppia Spesa]]
-    
 - [[SHA-256]]
-    
 - [[Proof of Work]]
-    
 - [[Problema dei Generali Bizantini]]
+
+# White Paper Ufficiale
 
 ![[bitcoin_it.pdf]]
 
