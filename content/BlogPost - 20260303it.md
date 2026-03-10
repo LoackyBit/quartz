@@ -9,7 +9,7 @@ tags:
 stage: fine-tuned 🧠
 source: []
 summary: Riflessione sulla divergenza tra bene comune sbandierato in propaganda e l'atomismo individuale dei politici una volta al potere.
-draft: false
+draft: true
 ---
 Oggi ho riflettuto su come la descrizione dell'**atomismo** fatta da [[Karl Marx]] trovi un'eco sorprendente e amara nella realtà dello Stato italiano contemporaneo. Marx, nelle sue critiche allo Stato moderno, evidenziava come la società civile fosse composta da individui ("atomi") separati, ognuno teso al proprio interesse privato, nonostante la parvenza di unità politica.
 
