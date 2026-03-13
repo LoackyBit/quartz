@@ -15,7 +15,7 @@ Le caratteristiche principali sono la **deformazione** e l’**alterazione dei c
 
 Con la stessa parola (’espressionismo’) indichiamo in realtà due movimenti, o correnti: francese e tedesco.
 
-- Il ==**francese**== viene anche chiamato _fauves_, nome che deriva dalla mostra di ‘Donatello tra le belve’.
+- Il ==**francese**== viene anche chiamato _fauves_, nome che deriva dalla mostra di ‘Donatello tra le belve’
 - Il **==tedesco==** ha come massimo esponente Die Brücke e ha come obiettivo essere il ponte tra arte vecchia e arte futura.
 
 | **Caratteristica** | **Francese** | **Tedesco** |
