@@ -15,8 +15,8 @@ Le caratteristiche principali sono la **deformazione** e l’**alterazione dei c
 
 Con la stessa parola (’espressionismo’) indichiamo in realtà due movimenti, o correnti: francese e tedesco.
 
-- Il ==**francese**== viene anche chiamato _fauves_, nome che deriva dalla mostra di ‘Donatello tra le belve’
-- Il **==tedesco==** ha come massimo esponente Die Brücke e ha come obiettivo essere il ponte tra arte vecchia e arte futura.
+- Il ==francese== viene anche chiamato _fauves_, nome che deriva dalla mostra di ‘Donatello tra le belve’
+- Il ==tedesco== ha come massimo esponente Die Brücke e ha come obiettivo essere il ponte tra arte vecchia e arte futura.
 
 | **Caratteristica** | **Francese** | **Tedesco** |
 | ------------------ | ------------ | ----------- |
@@ -30,9 +30,9 @@ Nuova tecnica caratterizzata da trasformazioni geometriche e dal superamento di 
 
 Si divide in due fasi: pre-cubismo e cubismo.
 
-Il pre-cubismo, o cubismo **==analitico==**, è caratterizzato da **molteplici punti di vista** e **trasformazioni geometriche** e può essere sintetizzato con: _io artista, impiego del tempo per fare l’opera, tu osservatore impieghi del tempo a ricostruire (comprendere) l’opera_. I soggetti sono tristi e ai margini della società. Normalmente le opere di questa fase vengono generalizzate come opere cubiste, anche se in realtà esiste anche opere della seconda fase.
+Il pre-cubismo, o cubismo ==analitico==, è caratterizzato da **molteplici punti di vista** e **trasformazioni geometriche** e può essere sintetizzato con: _io artista, impiego del tempo per fare l’opera, tu osservatore impieghi del tempo a ricostruire (comprendere) l’opera_. I soggetti sono tristi e ai margini della società. Normalmente le opere di questa fase vengono generalizzate come opere cubiste, anche se in realtà esiste anche opere della seconda fase.
 
-La seconda fase, il cubismo **==sintetico==**, fonda le basi per la nascita del dadaismo con la creazione della nuova tecnica del **papier-collage**.
+La seconda fase, il cubismo ==sintetico==, fonda le basi per la nascita del dadaismo con la creazione della nuova tecnica del **papier-collage**.
 
 ### Futurismo
 
@@ -42,7 +42,7 @@ Il **rifiuto** del **passato** e della **tradizione** è assoluto, tant’è che
 
 Perciò l’arte viene vista come strumento di rottura e provocazione.
 
-Dal punto di vista tecnico troviamo un dinamismo delle forme e delle linee. In particolare il futurismo **==italiano==** continua il filone neo-impressionista francese dando vita ad una tecnica molto simile al puntinismo: il **divisionismo**.
+Dal punto di vista tecnico troviamo un dinamismo delle forme e delle linee. In particolare il futurismo ==italiano== continua il filone neo-impressionista francese dando vita ad una tecnica molto simile al puntinismo: il **divisionismo**.
 
 Sintetizzando Cubismo e Futurismo possiamo dire che nel primo _**l’artista gira intorno al soggetto**_ mentre nel secondo _**il soggetto gira intorno all’artista**_.
 
@@ -52,7 +52,7 @@ Insieme al Dadaismo, entrambi cercano di trovare altre soluzioni nell’arte e u
 
 **Kandisky** è considerato l’autore principale e la sua partecipazione è nata da una percezione confusa di un suo quadro capovolto dalla moglie. Il suo unico punto sicuro fu il colore e la forma: decise quindi di isolarli.
 
-L’immagine quindi non ha più una funzione narrativa ma evocativa/comunicativa. Questo portò ad un interesse per il **disegno infantile**: il bambino, poiché non ha sviluppato ancora le convenzioni artistiche, ha come unico mezzo di espressione la **==linea==**, il **==colore==** e la ==**forma**==.
+L’immagine quindi non ha più una funzione narrativa ma evocativa/comunicativa. Questo portò ad un interesse per il **disegno infantile**: il bambino, poiché non ha sviluppato ancora le convenzioni artistiche, ha come unico mezzo di espressione la ==linea==, il ==colore== e la ==forma==.
 
 ### Dadaismo
 
@@ -62,6 +62,6 @@ Si passa dal prodotto (tela, scultura…) all’azione/gesto: qualsiasi cosa pu�
 
 ### Metafisica & Surrealismo
 
-Sono due movimenti molto simili del **post-guerra** ed entrambi ritornano all’uso dello **==spazio==** dopo l’eliminazione attuata dall’Astrattismo.
+Sono due movimenti molto simili del **post-guerra** ed entrambi ritornano all’uso dello ==spazio== dopo l’eliminazione attuata dall’Astrattismo.
 
 Le uniche differenze sono che la metafisica presenta una **luce** con tagli netti e **spazi surreali**. Mentre il Surrealismo è caratterizzato da **oggetti deformi**, ma uno spazio familiare.
