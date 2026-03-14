@@ -1,3 +1,18 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+article.popover-hint img {
+	display: block;
+	max-width: 100%;
+	max-height: 80vh;
+	width: auto;
+	height: auto;
+	margin: 1rem auto;
+	object-fit: contain;
+}
+
+article.popover-hint p:has(> img),
+article.popover-hint a:has(> img) {
+	overflow-x: auto;
+}
