@@ -7,10 +7,10 @@ tags:
   - retorica
   - comunicazione
   - bias-cognitivi
-stage: raw 🗂️
+stage: learning 🧩
 source: []
 summary: Come i concetti classici di Quintiliano possono salvare le nostre presentazioni moderne, evitando la trappola della ricerca costante del consenso e proteggendo la nostra memoria.
-draft: true
+draft: false
 ---
 Leggendo gli appunti sull'[[Institutio Oratoria]] di Quintiliano, mi sono reso conto di quanto i suoi precetti educativi siano in realtà manuali di sopravvivenza per la comunicazione moderna. I suoi consigli non valgono solo per il maestro romano o l'avvocato del foro, ma sono indicazioni preziose per chiunque debba affrontare attività di [[Public Speaking]], che si tratti di un keynote a una conferenza o semplicemente della necessità di esprimere un concetto complesso a un gruppo di amici senza perderli per strada.
 
