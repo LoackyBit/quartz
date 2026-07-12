@@ -1,14 +1,13 @@
 ---
-title: "Come Ho Usato Anki per Prepararmi alla Scuola con un Tocco Personale"
+title: "Come Ho Usato Anki per Prepararmi Alla Scuola con Un Tocco Personale"
 date: 2025-09-10
+tags: [blog, tecnologia, studio]
+stage: fine-tuned 🧠
+summary: "Un racconto personale su come ho scoperto Anki e organizzato il mio ripasso di fisica con amici e add-on utili."
 draft: true
-tags:
-  - blog
-  - tecnologia
-  - studio
-description: "Un racconto personale su come ho scoperto Anki e organizzato il mio ripasso di fisica con amici e add-on utili."
-image: Pasted image 20250910104100.png
 ---
+[[Home MOC|Home]] / [[Blog]] / [[BlogPost - 20250910it|Come Ho Usato Anki per Prepararmi Alla Scuola con Un Tocco Personale]]
+
 # Introduzione
 
 Qualche giorno fa ho deciso di prepararmi all'inizio della scuola ripassando la fisica del quarto anno. Conoscendo il mitico Alessandro De Concini, sono partito da uno dei suoi video, e da lì è iniziata una piccola avventura che mi ha portato a scoprire Anki. Questo post racconta il mio viaggio e qualche trucco che ho imparato!
@@ -34,3 +33,6 @@ All'inizio era un po' confusionario gestire tutto, ma gli add-on come "Review He
 ## Conclusione
 
 Ripassare con Anki è stato un game changer per me! Se anche tu stai cercando un modo per organizzare lo studio, provalo e fammi sapere nei commenti come ti trovi. Hai qualche add-on preferito?
+
+---
+## Collegamenti

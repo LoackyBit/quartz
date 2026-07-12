@@ -1,17 +1,12 @@
 ---
-title: Unfuck your brain
+title: "Unfuck Your Brain"
 date: 2026-03-14
-tags:
-  - produttività
-  - focus
-  - mindset
-  - abitudini
-  - attenzione
+tags: [produttività, focus, mindset, abitudini, attenzione]
 stage: raw 🗂️
-source: https://youtu.be/bQtKSGlviWI
 summary: "Guida pratica in tre step per eliminare la nebbia mentale: sconfiggere la dipendenza dalle distrazioni, trovare chiarezza e ottimizzare dieta e sonno."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[Unfuck Your Brain]]
 
 Molto spesso mi ritrovo con ottimi propositi per l'anno nuovo o per un nuovo progetto, mi siedo alla scrivania e, dopo ore, mi rendo conto di aver solo consumato contenuti senza produrre nulla. Il problema alla base del fallimento dei nostri obiettivi è che il nostro cervello è costantemente sovrastimolato. Per costruire qualcosa di valore serve una capacità di **focus profondo**, e non possiamo averla se la nostra mente è abituata a nutrirsi di distrazioni continue.
 
@@ -59,6 +54,7 @@ Se leggo due righe di un libro e dimentico subito cosa ho letto, il problema spe
 
 **Suggerimento pratico:** Prima di cercare la tecnica di produttività perfetta, devo assicurarmi di aver ottimizzato i miei input primari. Una dieta pulita e un sonno di qualità rendono l'ottenimento di grandi _output_ dieci volte più semplice, liberandomi dalla cosiddetta [[Brain Fog]].
 
+---
 ## Collegamenti
 
 - [[Gestione dell'Attenzione e del Focus]]

@@ -1,12 +1,13 @@
 ---
-title: 6 File I-O
+title: "6 File I-o"
 date: 2025-09-05
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "* Up until now, everything we’ve programmed has stored information in memory. That is, once the p..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[6 File I-o]]
+
 [[CS50’s Python]]
 ## File I/O
 
@@ -290,3 +291,6 @@ Now, we have not only seen that we can write and read files textually—we can a
 * `PIL`
 
 [1]: https://cs50.harvard.edu/python/notes/6/ "Lecture 6 - CS50's Introduction to Programming with Python"
+
+---
+## Collegamenti

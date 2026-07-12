@@ -1,12 +1,13 @@
 ---
-title: 7 Regular Expressions
+title: "7 Regular Expressions"
 date: 2025-09-05
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "* Regular expressions or “regexes” will enable us to examine patterns within our code. For exampl..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[7 Regular Expressions]]
+
 [[CS50’s Python]]
 ## Regular Expressions
 
@@ -576,3 +577,6 @@ Now, you’ve learned a whole new language of regular expressions that can be ut
 * Case Sensitivity
 * Cleaning Up User Input
 * Extracting User Input
+
+---
+## Collegamenti

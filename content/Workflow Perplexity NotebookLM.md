@@ -1,25 +1,17 @@
 ---
-title: Workflow Perplexity + NotebookLM
+title: "Workflow Perplexity NotebookLM"
 date: 2026-04-03
-tags:
-  - workflow
-  - notion
-  - notebookLM
-  - gemini
-  - perplexity
-  - produttività
-  - studio
-  - maturità
+tags: [workflow, notion, notebooklm, gemini, perplexity, produttività, studio, maturità]
 stage: raw 🗂️
-source: []
 summary: "Flusso a tre stadi per creare pagine Notion strutturate: NotebookLM come fonte, Gemini come estrattore, Perplexity come scrittore."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[Workflow Perplexity NotebookLM]]
 
 ## Il problema
 
 [[Perplexity]] non supporta l'allegato diretto di interi notebook come fonte di contesto.
-[[Gemini]], invece, permette di caricare e leggere notebook completi in un'unica sessione.
+[[GEMINI]], invece, permette di caricare e leggere notebook completi in un'unica sessione.
 La soluzione è usare i due strumenti in sequenza, sfruttando i punti di forza di ciascuno.
 
 ## Il flusso
@@ -98,11 +90,12 @@ Questa variante è utile quando il notebook è molto denso o le fonti sono ridon
 - Incollare in Perplexity un riassunto narrativo invece di un briefing strutturato → Perplexity perde la gerarchia delle informazioni.
 - Dimenticare il tag `[da verificare]` nel briefing → Perplexity potrebbe "completare" le lacune inventando dati.
 
+---
 ## Collegamenti
 
 - [[Notion]]
 - [[Guida di stile - letteratura italiana]]
 - [[Esame di Stato 2026]]
 - [[NotebookLM]]
-- [[Gemini]]
+- [[GEMINI]]
 - [[Perplexity Spaces]]

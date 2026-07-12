@@ -1,12 +1,13 @@
 ---
-title: 8 Object-Oriented Programming
+title: "8 Object-Oriented Programming"
 date: 2025-09-06
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "- There are different paradigms of programming. As you learn other languages, you will start reco..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[8 Object-Oriented Programming]]
+
 [[CS50’s Python]]
 ## Object-Oriented Programming
 
@@ -716,3 +717,6 @@ Now, you've learned a whole new level of capability through object-oriented prog
 - Static Methods
 - Inheritance
 - Operator Overloading
+
+---
+## Collegamenti

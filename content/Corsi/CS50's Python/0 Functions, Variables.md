@@ -1,12 +1,13 @@
 ---
-title: 0 Functions and Variables
+title: "0 Functions and Variables"
 date: 2025-07-17
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "- VS Code is a text editor. In addition to editing text, you can visually browse files and run te..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[0 Functions, Variables|0 Functions and Variables]]
+
 [[CS50’s Python]]
 ## Creating Code with Python
 
@@ -587,3 +588,6 @@ Through the work of this single lecture, you have learned abilities that you wil
 - Floats;
 - Creating your own functions; and
 - Return values.
+
+---
+## Collegamenti

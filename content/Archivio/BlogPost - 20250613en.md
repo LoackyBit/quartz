@@ -1,14 +1,13 @@
 ---
-title: How I Built My Blog with Hugo and the Stack Theme
+title: "How i Built My Blog With Hugo and the Stack Theme"
 date: 2025-06-13
+tags: [blog, tutorial]
+stage: fine-tuned 🧠
+summary: "A step-by-step guide on how I created my blog using Obsidian, Hugo, GitHub, and Vercel, with a guide to using the Stack theme."
 draft: false
-language: en
-tags:
-  - blog
-  - tutorial
-description: A step-by-step guide on how I created my blog using Obsidian, Hugo, GitHub, and Vercel, with a guide to using the Stack theme.
-image: Pasted image 20250613120635.png
 ---
+[[Home MOC|Home]] / [[Blog]] / [[BlogPost - 20250613en|How i Built My Blog With Hugo and the Stack Theme]]
+
 # How I Built My Blog with Hugo and the Stack Theme
 
 Hello everyone! In this post, I’ll share how I built my blog using **Obsidian**, **Hugo**, **GitHub**, and **Hostinger**, following a tutorial by NetworkChuck and customizing it with the **Stack** theme ([https://stack.jimmycai.com/](https://stack.jimmycai.com/)). I’ll also guide you through configuring the Stack theme to create a sleek and functional blog.
@@ -212,3 +211,6 @@ description : "A short description"
 Run `hugo server -t hugo-theme-stack --buildDrafts` to preview changes locally. Ensure posts appear in the card layout on `http://localhost:1313`.
 
 Happy blogging!
+
+---
+## Collegamenti

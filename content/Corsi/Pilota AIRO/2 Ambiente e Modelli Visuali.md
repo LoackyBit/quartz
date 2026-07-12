@@ -1,12 +1,13 @@
 ---
-title: 02 Ambiente e Modelli Visuali
+title: "02 Ambiente e Modelli Visuali"
 date: 2026-02-04
-tags:
+tags: []
 stage: fine-tuned 🧠
-source:
-summary:
+summary: "Nel primo modulo abbiamo affrontato la cinematica di base e la navigazione reattiva. Tuttavia, pe..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[2 Ambiente e Modelli Visuali|02 Ambiente e Modelli Visuali]]
+
 [[Pilota AIRO]]
 # Pilota AIRO - 02 Ambiente e Modelli Visuali
 ## 1. Introduzione al Modulo 2: Contesto e Obiettivi
@@ -165,3 +166,6 @@ L'utilizzo di modelli avanzati come GPT-5 Nano richiede una supervisione dei con
 ### Monitoraggio e Destructor
 
 La classe `AI` gestisce il tracking dei token in background. Un dettaglio architetturale importante è che il riepilogo finale dei costi e dei token viene attivato dal metodo **destruttore** (`__del__`). Questo significa che vedrete il report dei costi nel terminale solo quando l'oggetto `ai` viene eliminato o alla chiusura dello script. Tutte le interazioni dettagliate sono inoltre persistite in `ai.log`.
+
+---
+## Collegamenti

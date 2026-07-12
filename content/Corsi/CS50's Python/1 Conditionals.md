@@ -1,12 +1,13 @@
 ---
-title: 1 Conditionals
+title: "1 Conditionals"
 date: 2025-07-17
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "- Conditionals allow you, the programmer, to allow your program to make decisions: As if your pro..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[1 Conditionals]]
+
 [[CS50’s Python]]
 # Conditionals
 
@@ -442,3 +443,6 @@ You now have the power within Python to use conditional statements to ask questi
 - Creating your own function;
 - Pythonic coding;
 - and `match`.
+
+---
+## Collegamenti

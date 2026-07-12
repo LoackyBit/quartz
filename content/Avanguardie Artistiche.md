@@ -1,14 +1,13 @@
 ---
-title: Avanguardie Artistiche
+title: "Avanguardie Artistiche"
 date: 2026-03-10
-tags:
-  - avanguardie
-  - arte
+tags: [avanguardie, arte]
 stage: fine-tuned 🧠
-source:
 summary: "Sintesi all'essenziale di ogni avanguardia artistica"
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[Avanguardie Artistiche]]
+
 ### Espressionismo
 
 Le caratteristiche principali sono la **deformazione** e l’**alterazione dei colori** e entrambe sono dovute al sentimento e allo **stato d’animo** dei poeti.
@@ -65,3 +64,6 @@ Si passa dal prodotto (tela, scultura…) all’azione/gesto: qualsiasi cosa pu�
 Sono due movimenti molto simili del **post-guerra** ed entrambi ritornano all’uso dello ==spazio== dopo l’eliminazione attuata dall’Astrattismo.
 
 Le uniche differenze sono che la metafisica presenta una **luce** con tagli netti e **spazi surreali**. Mentre il Surrealismo è caratterizzato da **oggetti deformi**, ma uno spazio familiare.
+
+---
+## Collegamenti

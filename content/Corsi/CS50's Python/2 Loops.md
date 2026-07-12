@@ -1,12 +1,13 @@
 ---
-title: 2 Loops
+title: "2 Loops"
 date: 2025-07-17
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "- Essentially, loops are a way to do something over and over again."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[2 Loops]]
+
 [[CS50’s Python]]
 # Loops
 
@@ -500,3 +501,6 @@ You now have another power in your growing list of your Python abilities. In thi
 - `len`
 - `list`
 - `dict`
+
+---
+## Collegamenti

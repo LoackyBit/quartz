@@ -1,17 +1,12 @@
 ---
-title: Problema P vs NP
+title: "Problema P Vs NP"
 date: 2026-03-09
-tags:
-  - computer-science
-  - algoritmi
-  - complessità
-  - matematica
+tags: [computer-science, algoritmi, complessità, matematica]
 stage: fine-tuned 🧠
-source:
-  - https://youtu.be/x36UmiSiEzc
-summary: Spiegazione intuitiva del problema P vs NP nell'informatica teorica, con esempi come Sudoku e il Commesso Viaggiatore.
+summary: "Spiegazione intuitiva del problema P vs NP nell'informatica teorica, con esempi come Sudoku e il Commesso Viaggiatore."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[Problema P Vs NP]]
 
 Il problema **P vs NP** è probabilmente il più grande quesito irrisolto dell'[[Informatica Teorica]] (e uno dei problemi del millennio da 1 milione di dollari del Clay Mathematics Institute).
 
@@ -65,6 +60,7 @@ Il mondo cambierebbe dall'oggi al domani:
 - L'ottimizzazione logistica sarebbe perfetta, eliminando immensi sprechi di risorse.
 
 Finora, nessuno è riuscito a dimostrarlo (e quasi tutti gli esperti credono che $P \neq NP$, ovvero che esistono limiti computazionali intrinseci nel nostro universo).
+---
 ## Collegamenti
 
 - [[Teoria della Complessità Computazionale]]

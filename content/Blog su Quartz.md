@@ -1,18 +1,13 @@
 ---
-title: Blog su Quartz
+title: "Blog su Quartz"
 date: 2026-03-02
-tags:
-  - quartz
-  - migrazione
-  - obsidian
-  - github-actions
-  - digital-garden
+tags: [quartz, migrazione, obsidian, github-actions, digital-garden]
 stage: learning 🧩
-source:
-  - https://github.com/LoackyBit/quartz
-summary: Migrazione da Astro a Quartz con deploy su GitHub Pages, sync Obsidian automatica e revisione completa di contenuti e configurazione.
+summary: "Migrazione da Astro a Quartz con deploy su GitHub Pages, sync Obsidian automatica e revisione completa di contenuti e configurazione."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[Blog su Quartz]]
+
 ## Cosa ho cambiato
 
 Oggi ho rifatto quasi tutto il setup del blog, passando da una logica Astro a una pipeline Quartz molto piu automatizzata e orientata a Obsidian.  
@@ -100,6 +95,7 @@ Adesso il flusso e davvero "Obsidian-first":
 - sincronizzo automaticamente su Quartz
 - faccio preview locale quando serve
 - pubblico con pipeline GitHub Actions senza passaggi manuali ripetitivi
+---
 ## Collegamenti
 
 - [[Quartz]]

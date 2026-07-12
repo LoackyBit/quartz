@@ -1,12 +1,13 @@
 ---
-title: 5 Unit Tests
+title: "5 Unit Tests"
 date: 2025-08-23
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "* Up until now, you have been likely testing your own code using `print` statements."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[5 Unit Tests]]
+
 [[CS50’s Python]]
 # Unit tests
 
@@ -328,3 +329,6 @@ Testing your code is a natural part of the programming process. Unit tests allow
 * Unit tests
 * `assert`
 * `pytest`
+
+---
+## Collegamenti

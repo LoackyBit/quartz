@@ -1,18 +1,13 @@
 ---
-title: "Imparare Vim e Neovim: La Mia Configurazione per Programmazione Python"
-date: 2025-08-25T18:46:00
+title: "Imparare Vim e Neovim: la Mia Configurazione per Programmazione Python"
+date: 2025-08-25
+tags: [programmazione, vim, python, terminale, macos, neovim]
+stage: fine-tuned 🧠
+summary: "Come ho configurato Vim e Neovim per esercitarmi con i problem sets di CS50 Python, integrando iTerm2 e cheat sheets per terminale e Vim."
 draft: false
-language: it
-tags:
-  - programmazione
-  - vim
-  - python
-  - terminale
-  - macos
-  - neovim
-description: Come ho configurato Vim e Neovim per esercitarmi con i problem sets di CS50 Python, integrando iTerm2 e cheat sheets per terminale e Vim.
-image: Pasted image 20250825185813.png
 ---
+[[Home MOC|Home]] / [[Blog]] / [[BlogPost - 20250825it|Imparare Vim e Neovim: la Mia Configurazione per Programmazione Python]]
+
 # Introduzione
 
 Negli ultimi giorni ho deciso di immergermi nello studio di Vim, un editor di testo potente ma notoriamente ostico, per migliorare le mie competenze di programmazione. Sto seguendo il corso [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/) di Harvard, che include una serie di *problem sets* – esercizi di coding che richiedono di sviluppare soluzioni a problemi specifici. Per rendere l’esperienza più formativa, ho scelto di scrivere questi programmi usando Vim, o meglio, Neovim, direttamente dal terminale. In questo post racconto come ho configurato il mio ambiente di lavoro, integrando Visual Studio Code, iTerm2 e cheat sheets per Vim e il terminale macOS, e come ho superato alcune sfide iniziali.
@@ -94,3 +89,6 @@ Imparare Vim e configurare un ambiente di lavoro basato su terminale non è stat
   - [iTerm2](https://iterm2.com/)
   - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
   - Cheat sheets: [Vim](https://phoenixnap.com/kb/vim-commands-cheat-sheet) e [Mac Terminal](https://phoenixnap.com/kb/mac-terminal-commands)
+
+---
+## Collegamenti

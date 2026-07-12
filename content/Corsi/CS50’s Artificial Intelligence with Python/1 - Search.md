@@ -1,3 +1,13 @@
+---
+title: "1 - Search"
+date: 2026-03-10
+tags: []
+stage: fine-tuned 🧠
+summary: "Artificial Intelligence (AI) covers a range of techniques that appear as sentient behavior by the..."
+draft: false
+---
+[[Home MOC|Home]] / [[Blog]] / [[1 - Search]]
+
 ## Artificial Intelligence
 
 Artificial Intelligence (AI) covers a range of techniques that appear as sentient behavior by the computer. For example, AI is used to recognize faces in photographs on your social media, beat the World's Champion in chess, and process your speech when you speak to Siri or Alexa on your phone.
@@ -234,3 +244,6 @@ This is most easily shown with an example: a maximizing player knows that, at th
 There is a total of 255,168 possible Tic Tac Toe games, and 10²⁹⁰⁰⁰ possible games in Chess. The minimax algorithm, as presented so far, requires generating all hypothetical games from a certain point to the terminal condition. While computing all the Tic-Tac-Toe games doesn't pose a challenge for a modern computer, doing so with chess is currently impossible.
 
 Depth-limited Minimax considers only a pre-defined number of moves before it stops, without ever getting to a terminal state. However, this doesn't allow for getting a precise value for each action, since the end of the hypothetical games has not been reached. To deal with this problem, Depth-limited Minimax relies on an evaluation function that estimates the expected utility of the game from a given state, or, in other words, assigns values to states. For example, in a chess game, a utility function would take as input a current configuration of the board, try to assess its expected utility (based on what pieces each player has and their locations on the board), and then return a positive or a negative value that represents how favorable the board is for one player versus the other. These values can be used to decide on the right action, and the better the evaluation function, the better the Minimax algorithm that relies on it.
+
+---
+## Collegamenti

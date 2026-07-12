@@ -1,12 +1,13 @@
 ---
-title: 4 Libraries
+title: "4 Libraries"
 date: 2025-07-21
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "- Generally, libraries are bits of code written by you or others that you can use in your program."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[4 Libraries]]
+
 [[CS50’s Python]]
 # Libraries
 
@@ -332,3 +333,6 @@ Libraries extend the abilities of Python. Some libraries are included by default
 - Packages
 - APIs
 - Making Your Own Libraries
+
+---
+## Collegamenti

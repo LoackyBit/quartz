@@ -1,17 +1,13 @@
 ---
-title: "TIL: L'inganno dell'applauso (Quintiliano)"
-date: 2026-03-14 14:00
-tags:
-  - quintiliano
-  - public-speaking
-  - retorica
-  - comunicazione
-  - bias-cognitivi
+title: "TIL: l'Inganno Dell'Applauso Quintiliano"
+date: 2026-03-14
+tags: [quintiliano, public-speaking, retorica, comunicazione, bias-cognitivi]
 stage: learning 🧩
-source: []
-summary: Come i concetti classici di Quintiliano possono salvare le nostre presentazioni moderne, evitando la trappola della ricerca costante del consenso e proteggendo la nostra memoria.
+summary: "Come i concetti classici di Quintiliano possono salvare le nostre presentazioni moderne, evitando la trappola della ricerca costante del consenso e proteggendo la nostra memoria."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[TIL l'Inganno Dell'Applauso Quintiliano|TIL: l'Inganno Dell'Applauso Quintiliano]]
+
 Leggendo gli appunti sull'[[Institutio Oratoria]] di Quintiliano, mi sono reso conto di quanto i suoi precetti educativi siano in realtà manuali di sopravvivenza per la comunicazione moderna. I suoi consigli non valgono solo per il maestro romano o l'avvocato del foro, ma sono indicazioni preziose per chiunque debba affrontare attività di [[Public Speaking]], che si tratti di un keynote a una conferenza o semplicemente della necessità di esprimere un concetto complesso a un gruppo di amici senza perderli per strada.
 
 ## Il focus sul "Docere" rispetto al "Movere"
@@ -49,6 +45,7 @@ In definitiva, se abituiamo noi stessi (o chi ci ascolta) a premiare ogni singol
 >[!quote] Quintiliano
 >*Se c'è pronto l'elogio per qualsiasi parola esca di bocca, diligenza e fatica appaiono del tutto inutili*.
 
+---
 ## Collegamenti
 
 - [[Public Speaking]]

@@ -1,12 +1,13 @@
 ---
-title: 01 Introduzione e Linguaggio Naturale
+title: "01 Introduzione e Linguaggio Naturale"
 date: 2026-01-23
-tags:
+tags: []
 stage: fine-tuned 🧠
-source:
-summary:
+summary: "Analisi Strategica: Il corso \\"Laboratorio di Programmazione di Robot Sociali e Intelligenza Artif..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[1 Introduzione e Linguaggio Naturale|01 Introduzione e Linguaggio Naturale]]
+
 [[Pilota AIRO]]
 # Pilota AIRO - 01 Introduzione e Linguaggio Naturale
 ## 1. Introduzione al Corso e all'Ecosistema SMARRtino
@@ -152,3 +153,6 @@ except Exception as e:
 ### Conclusione
 
 La programmazione in linguaggio naturale rappresenta l'ultima frontiera dell'astrazione software. Attraverso l'ecosistema SMARRtino, la complessità dei protocolli WebSocket e della cinematica robotica viene nascosta dietro un'interfaccia intuitiva. Questo permette al programmatore di spostare il focus dalla "scrittura di righe di codice" alla "progettazione di comportamenti sociali", abilitando un'interazione robotica realmente intelligente e accessibile.
+
+---
+## Collegamenti

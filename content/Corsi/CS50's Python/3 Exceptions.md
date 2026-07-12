@@ -1,12 +1,13 @@
 ---
-title: 3 Exceptions
+title: "3 Exceptions"
 date: 2025-07-17
-tags: python
+tags: [python]
 stage: fine-tuned 🧠
-source: https://cs50.harvard.edu/python/
-summary:
+summary: "* Exceptions are things that go wrong within our coding."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[3 Exceptions]]
+
 [[CS50’s Python]]
 # Exceptions
 
@@ -216,3 +217,6 @@ Errors are inevitable in your code. However, you have the opportunity to use wha
 * `try`
 * `else`
 * `pass`
+
+---
+## Collegamenti

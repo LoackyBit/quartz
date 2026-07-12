@@ -1,12 +1,13 @@
 ---
-title: 03 Ambienti Dinamici e Domotica
+title: "03 Ambienti Dinamici e Domotica"
 date: 2026-02-15
-tags:
+tags: []
 stage: fine-tuned 🧠
-source:
-summary:
+summary: "In un'architettura di simulazione avanzata basata su Gazebo, un \\"ambiente dinamico\\" non si limita..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[3 Ambienti Dinamici e Domotica|03 Ambienti Dinamici e Domotica]]
+
 [[Pilota AIRO]]
 # Pilota AIRO - 03 Ambienti Dinamici e Domotica
 ## 1. Introduzione ai Sistemi Robotici Dinamici
@@ -173,3 +174,6 @@ domotic_AI.del_listener()
 ```
 
 Questa architettura trasforma SMARRtino in un orchestratore di sistemi cyber-fisici: non è più solo una macchina che si muove, ma un maggiordomo digitale capace di rimodellare l'ambiente fisico tramite la mediazione intelligente dell'AI.
+
+---
+## Collegamenti

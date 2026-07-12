@@ -1,12 +1,13 @@
 ---
-title: 04 Interazione Umana e Messaggi
+title: "04 Interazione Umana e Messaggi"
 date: 2026-02-24
-tags:
+tags: []
 stage: fine-tuned 🧠
-source:
-summary:
+summary: "Il passaggio dalla navigazione autonoma all'interazione sociale rappresenta un salto di paradigma..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[4 Interazione Umana e Messaggi|04 Interazione Umana e Messaggi]]
+
 [[Pilota AIRO]]
 # Pilota AIRO - 04 Interazione Umana e Messaggi: Comunicazione e Collaborazione nel Sistema SMARRtino
 
@@ -146,3 +147,6 @@ Il completamento di questo modulo certifica la padronanza delle seguenti archite
 - **Controllo Deterministico via JSON:** Tecniche di prompt engineering per forzare gli LLM a generare codice eseguibile e gestire logiche condizionali complesse.
 
 Queste basi sono essenziali per il modulo successivo, dove estenderemo le capacità di SMARRtino introducendo la gestione della memoria a lungo termine e la persistenza della conoscenza tramite database vettoriali.
+
+---
+## Collegamenti

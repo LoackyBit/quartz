@@ -1,26 +1,20 @@
 ---
-title: Bitcoin (protocollo)
+title: "Bitcoin Protocollo"
 date: 2026-03-09
-tags:
-  - bitcoin
-  - blockchain
-  - crittografia
-  - proof-of-work
-  - sistemi-distribuiti
-  - sha-256
+tags: [bitcoin, blockchain, crittografia, proof-of-work, sistemi-distribuiti, sha-256]
 stage: fine-tuned 🧠
-source:
-  - https://youtu.be/bBC-nXj3Ng4
 summary: "Costruiamo una criptovaluta da zero: dal libro mastro tra amici, all'introduzione delle firme digitali, fino alla necessità della Proof of Work per il consenso distribuito."
 draft: false
 ---
-Immaginiamo di voler creare la nostra moneta digitale da zero. Come faremmo a farla funzionare senza affidarci a una banca? Ecco quindi una spiegazione del [[Bitcoin (protocol)|protocollo Bitcoin]].
+[[Home MOC|Home]] / [[Blog]] / [[Bitcoin Protocol|Bitcoin Protocollo]]
+
+Immaginiamo di voler creare la nostra moneta digitale da zero. Come faremmo a farla funzionare senza affidarci a una banca? Ecco quindi una spiegazione del [[Bitcoin Protocol|protocollo Bitcoin]].
 
 ## 1. Il Libro Mastro (Ledger) Condiviso
 
 Partiamo dalle basi. Invece di scambiarci banconote fisiche, io e i miei amici decidiamo di tenere un **registro** (un _ledger_). Ogni volta che qualcuno paga un altro, aggiungiamo una riga:
 
-![[But how does bitcoin actually work_ 3-7 screenshot.png]]
+![[But how does bitcoin actually work_ 3-7 screenshot.png|1000x400]]
 
 Alla fine del mese, guardiamo i saldi e chi è in negativo paga chi è in positivo.
 
@@ -163,6 +157,7 @@ Ed è così che, partendo da un registro tra amici, abbiamo appena inventato Bit
 - **Le Transazioni (UTXO)**: Guarda i pagamenti non come un conto in banca che va su e giù, ma come banconote virtuali che si "fondono" o si "spezzano" ogni volta che le invii per generare il resto esatto.
     
 
+---
 ## Collegamenti
 
 - [[Crittografia Asimmetrica]]

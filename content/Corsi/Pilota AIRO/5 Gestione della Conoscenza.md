@@ -1,12 +1,13 @@
 ---
-title: 05 Gestione della Conoscenza
+title: "05 Gestione della Conoscenza"
 date: 2026-03-05
-tags:
+tags: []
 stage: fine-tuned 🧠
-source:
-summary:
+summary: "Nel dominio della robotica avanzata, il passaggio dalla reattività procedurale alla persistenza c..."
 draft: false
 ---
+[[Home MOC|Home]] / [[Blog]] / [[5 Gestione della Conoscenza|05 Gestione della Conoscenza]]
+
 [[Pilota AIRO]]
 # Pilota AIRO - 05 Gestione della Conoscenza
 
@@ -75,3 +76,6 @@ Consideriamo l'applicazione pratica osservata nel Modulo 5: durante il pattuglia
 L'implementazione della gestione della conoscenza eleva SMARRtino da strumento programmato a **partner collaborativo**. La capacità di "ricordare" permette un'interazione uomo-robot naturale e contestuale, dove il robot apprende e si adatta all'ambiente operativo.
 
 Dal punto di vista architettonico, questo modulo rappresenta la chiusura del cerchio dell'autonomia decisionale. Un robot che possiede una memoria a lungo termine non è più vincolato alla pura esecuzione di script, ma agisce come un agente autonomo capace di mantenere una coerenza narrativa e operativa. Questa integrazione tra percezione visiva, ragionamento probabilistico tramite LLM e persistenza vettoriale costituisce lo stato dell'arte nella robotica di servizio e definisce il futuro dell'intelligenza artificiale incarnata.
+
+---
+## Collegamenti

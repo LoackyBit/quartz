@@ -1,13 +1,13 @@
 ---
-title: "Da TradingView a MT5: Automazione della TrendBars Strategy su EUR/USD"
-date: 2025-07-02T22:00:00
+title: "Da TradingView a Mt5: Automazione della TrendBars Strategy su Eur/usd"
+date: 2025-07-02
+tags: [trading]
+stage: fine-tuned 🧠
+summary: "Negli ultimi mesi ho affrontato una sfida tecnica molto interessante: portare una strategia di trading sviluppata originariamente in Pine Script su TradingView, denominata TrendBars Strategy, su MetaTrader 5 (MT5), trasformandola in un Expert Advisor (EA) completamente automatizzato e pronto all’uso su un conto reale."
 draft: false
-language: it
-tags:
-  - trading
-description: "Negli ultimi mesi ho affrontato una sfida tecnica molto interessante: portare una strategia di trading sviluppata originariamente in Pine Script su TradingView, denominata TrendBars Strategy, su MetaTrader 5 (MT5), trasformandola in un Expert Advisor (EA) completamente automatizzato e pronto all’uso su un conto reale."
-image: Pasted image 20250703230925.png
 ---
+[[Home MOC|Home]] / [[Blog]] / [[BlogPost - 20250703it|Da TradingView a Mt5: Automazione della TrendBars Strategy su Eur/usd]]
+
 # Da TradingView a MT5: il contesto
 
 TradingView offre uno degli ambienti migliori per lo sviluppo e il test di strategie tramite Pine Script, ma ha dei limiti importanti:
@@ -97,3 +97,6 @@ Essendo i parametri di marginazione e commissione diversi tra Capital.com (usato
 **Installazione su MacBook Air M3**: MT5 funziona perfettamente tramite Wine. Ho compilato l’EA in MetaEditor, l’ho caricato sul grafico EUR/USD (Heikin Ashi), impostato i parametri richiesti e attivato il trading algoritmico.
 
 **Backtest**: Ho testato la strategia tramite il tester di MT5, impostando capitale, leva, commissioni e condizioni identiche a quelle di TradingView. In questo modo ho potuto verificare la corrispondenza tra i risultati ottenuti sulle due piattaforme.
+
+---
+## Collegamenti
